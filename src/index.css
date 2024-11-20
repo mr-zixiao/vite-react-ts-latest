@@ -1,0 +1,13 @@
+/*css reset*/
+@import url("@/assets/css/normalize.css");
+/*global variable*/
+@import url("@/assets/css/variable.css");
+/*global font face*/
+@import url("@/assets/font/fontFace.css");
+.text{
+    font-size: 1rem;
+    width: 6.25rem;
+    height: 6.25rem;
+    background-color: pink;
+    margin: 0.625rem;
+}
